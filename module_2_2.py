@@ -8,5 +8,5 @@ if first == second == third:
 elif first == second or second == third or third == first:
     print(2)
 elif not first == second == third:
-    sleep(5) # проба задержки по времени
+    sleep(3) # проба задержки по времени
     print(0)
