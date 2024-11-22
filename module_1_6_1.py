@@ -8,3 +8,6 @@ grades = [sum(grades[0]) / len(grades[0]), sum(grades[1]) / len(grades[1]),
           sum(grades[4]) / len(grades[4])]
 Progress_sheet = dict(zip(list_,grades))
 print(Progress_sheet)
+
+
+
