@@ -3,7 +3,7 @@ i = 0
 while i < len(my_list):
     print(my_list[i])
     i += 1
-    if my_list[i] >= 0:
-        continue
+    if my_list[i] >= 0: # если if list[i] == 0: continue, то вывод на консоль только число 42
+       continue
     else:
         break
