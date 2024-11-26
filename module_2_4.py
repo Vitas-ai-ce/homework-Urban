@@ -13,8 +13,8 @@ for i in range(len(numbers)):
     if n < 2:
         continue
     else:
-        f = n ** (1 / 2)  # Корень квадратный из n
-    for a in range(2, int(f + 1)):
+        k = n ** (1 / 2)  # Корень квадратный из n
+    for a in range(2, int(k + 1)):
         if n % a == 0:
             is_prime = False
             break
