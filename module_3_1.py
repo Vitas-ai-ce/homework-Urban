@@ -1,13 +1,11 @@
 # Домашняя работа по уроку "Пространство имён"
 # Цель: применить на практике начальные знания о пространстве имён и оператор global. Закрепить навыки из предыдущих модулей.
-
 # Задача "Счётчик вызовов":
 
 calls = 0
 def count_calls ():
     global calls
     calls += 1
-
 def string_info(string):
     a = str(string)
     result = (len(a), a.upper(), a.lower())
@@ -24,6 +22,7 @@ def is_contains(string, list_to_search):
         else:
             result = False
             continue
+
     # noinspection PyUnboundLocalVariable
     return result
 
