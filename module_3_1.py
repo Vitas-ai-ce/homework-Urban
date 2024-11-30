@@ -10,9 +10,9 @@ def count_calls ():
 
 def string_info(string):
     a = str(string)
-    res = (len(a), a.upper(), a.lower())
+    result = (len(a), a.upper(), a.lower())
     count_calls()
-    return res
+    return result
 def is_contains(string, list_to_search):
     string = str(string).lower()
     list_to_search = list(list_to_search)
@@ -30,6 +30,6 @@ def is_contains(string, list_to_search):
 
 print(string_info('Solovey'))
 print(string_info('Wildberis'))
-print(is_contains('Urban', ['ban', 'BaNaN', 'urBAN','BaNuR'])) # Urban ~ urBAN
-print(is_contains('cycle', ['recycling', 'cyclic','CiLc'])) # No matches
+print(is_contains('Urban', ['ban', 'BaNaN', 'urBAN',])) # Urban ~ urBAN
+print(is_contains('cycle', ['recycling', 'cyclic',])) # No matches
 print(calls)
