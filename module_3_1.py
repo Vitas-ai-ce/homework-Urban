@@ -29,7 +29,6 @@ def is_contains(string, list_to_search):
     return False
 
 
-
 print(string_info('Solovey'))
 print(string_info('Wildberis'))
 print(is_contains('Urban', ['ban', 'BaNaN', 'urBAN',])) # Urban ~ urBAN
