@@ -19,4 +19,3 @@ if __name__ == '__main__':
     database = Database()
     user = User(input('Введите логин : '), input('Введите пароль : '), input('Повторите пароль : '))
     database.add_user(user.username, user.password)
-    print(database.data)
