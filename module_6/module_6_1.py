@@ -35,6 +35,7 @@ class Fruit(Plant):
     edible = True
 
 
+
 if __name__ == "__main__":
     a1 = Predator('Волк с Уолл-Стрит')
     a2 = Mammal('Хатико')
