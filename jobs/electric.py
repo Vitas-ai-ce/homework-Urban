@@ -1,3 +1,5 @@
+import math
+
 '''
 Реализуем программу расчета затрат материала и
 стоимость работ по электромонтажу помещений.
@@ -34,4 +36,9 @@
  без отдельных групп потребителя(однопроводная система)
 '''
 def wire_length(self):
-    
+    self.wire_length = []
+    for length in wire_length:
+        math.fsum(length) = wire_length
+        
+
+
