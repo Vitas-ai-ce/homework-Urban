@@ -45,75 +45,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.World.executor": "Run",
-    "Python.World_2.executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python.calc.executor": "Run",
-    "Python.classpract.1.2.executor": "Run",
-    "Python.classpract.1.3.executor": "Run",
-    "Python.classpractic1.executor": "Run",
-    "Python.f.executor": "Run",
-    "Python.fake_math.executor": "Run",
-    "Python.file2.executor": "Run",
-    "Python.game.executor": "Run",
-    "Python.homework-Urban1.executor": "Run",
-    "Python.homework_dop_mod_5.executor": "Run",
-    "Python.men.executor": "Run",
-    "Python.method_new.executor": "Run",
-    "Python.module_1_4.executor": "Run",
-    "Python.module_1_5.executor": "Run",
-    "Python.module_1_6_1.executor": "Run",
-    "Python.module_2_2.executor": "Run",
-    "Python.module_2_2.py.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "Python.module_2_5_1.executor": "Run",
-    "Python.module_3_1.executor": "Run",
-    "Python.module_3_2.executor": "Run",
-    "Python.module_3_3.executor": "Run",
-    "Python.module_3_4.executor": "Run",
-    "Python.module_3_5.executor": "Run",
-    "Python.module_3_dop.executor": "Run",
-    "Python.module_4_1.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_2.executor": "Run",
-    "Python.module_5_3.executor": "Run",
-    "Python.module_5_4.executor": "Run",
-    "Python.module_6_1.executor": "Run",
-    "Python.module_6_2.executor": "Run",
-    "Python.module_6_3.executor": "Run",
-    "Python.module_6_hard.executor": "Run",
-    "Python.module_7_1.executor": "Run",
-    "Python.module_7_2.executor": "Run",
-    "Python.module_7_3.executor": "Run",
-    "Python.module_7_4.executor": "Run",
-    "Python.module_8_1.executor": "Debug",
-    "Python.module_8_2.executor": "Debug",
-    "Python.module_8_3.executor": "Run",
-    "Python.namespaces.executor": "Run",
-    "Python.practic.executor": "Run",
-    "Python.robot.executor": "Run",
-    "Python.robot_2.executor": "Run",
-    "Python.sortfunc.executor": "Run",
-    "Python.true_math.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/vitalijilin/Documents/python 10/11/homework-Urban1/module_7",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.World.executor&quot;: &quot;Run&quot;,
+    &quot;Python.World_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classpract.1.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classpract.1.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classpractic1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.f.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fake_math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework-Urban1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework_dop_mod_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.men.executor&quot;: &quot;Run&quot;,
+    &quot;Python.method_new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_1_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_dop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_6_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_7_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_8_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_8_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.module_8_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_9_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.namespaces.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.robot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.robot_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sortfunc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.true_math.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vitalijilin/Documents/python 10/11/homework-Urban1/module_7&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/module_7" />
@@ -126,7 +127,7 @@
       <recent name="$PROJECT_DIR$/file2/calc" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.module_8_3">
+  <component name="RunManager" selected="Python.game">
     <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework-Urban1" />
       <option name="ENV_FILES" value="" />
@@ -262,54 +263,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732284311399</updated>
-    </task>
-    <task id="LOCAL-00040" summary="&quot;Рекурсивное умножение цифр&quot;">
-      <option name="closed" value="true" />
-      <created>1733417058703</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1733417058703</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Встроенные функции в Python">
-      <option name="closed" value="true" />
-      <created>1733637990012</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1733637990012</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Калькулятор">
-      <option name="closed" value="true" />
-      <created>1733638025462</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1733638025462</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Калькулятор">
-      <option name="closed" value="true" />
-      <created>1733841744149</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1733841744150</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Дополнительное практическое задание по модулю 3">
-      <option name="closed" value="true" />
-      <created>1733841797729</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1733841797729</updated>
-    </task>
-    <task id="LOCAL-00045" summary="Домашняя работа по уроку &quot;Модули и пакеты&quot;">
-      <option name="closed" value="true" />
-      <created>1733934865735</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1733934865735</updated>
     </task>
     <task id="LOCAL-00046" summary="Домашняя работа по уроку &quot;Модули и пакеты&quot;">
       <option name="closed" value="true" />
@@ -655,7 +608,55 @@
       <option name="project" value="LOCAL" />
       <updated>1737282207658</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Задача &quot;Некорректность&quot;:">
+      <option name="closed" value="true" />
+      <created>1737282478902</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1737282478902</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Задача &quot;Некорректность&quot;">
+      <option name="closed" value="true" />
+      <created>1737282664154</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1737282664154</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Задача &quot;Некорректность&quot;">
+      <option name="closed" value="true" />
+      <created>1737282802541</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1737282802541</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Домашнее задание по теме &quot;Создание исключений&quot;">
+      <option name="closed" value="true" />
+      <created>1737282960114</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1737282960114</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Домашнее задание по теме &quot;Создание исключений&quot;">
+      <option name="closed" value="true" />
+      <created>1737283056218</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1737283056218</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Домашнее задание по теме &quot;Введение в функциональное программирование&quot;">
+      <option name="closed" value="true" />
+      <created>1737561374734</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1737561374735</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -673,9 +674,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Модуль_4" />
-    <MESSAGE value="module_4" />
-    <MESSAGE value="file2" />
     <MESSAGE value="таблица" />
     <MESSAGE value="Домашняя работа по уроку &quot;Атрибуты и методы объекта&quot;" />
     <MESSAGE value="Домашняя работа по уроку &quot;Перегрузка операторов&quot;" />
@@ -698,7 +696,10 @@
     <MESSAGE value="Домашнее задание по теме &quot;Try и Except&quot;" />
     <MESSAGE value="Задача &quot;План перехват&quot;" />
     <MESSAGE value="Задача &quot;Некорректность&quot;:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача &quot;Некорректность&quot;:" />
+    <MESSAGE value="Задача &quot;Некорректность&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Создание исключений&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Введение в функциональное программирование&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Введение в функциональное программирование&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
