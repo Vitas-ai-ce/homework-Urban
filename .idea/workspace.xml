@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4237234c-f9b2-4126-ac39-3906d93b8581" name="Changes" comment="Домашнее задание по теме &quot;Списковые, словарные сборки&quot;">
-      <change afterPath="$PROJECT_DIR$/module_9/module_9_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4237234c-f9b2-4126-ac39-3906d93b8581" name="Changes" comment="Д">
+      <change afterPath="$PROJECT_DIR$/jobs/electro_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/jobs/electric.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/electric.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module_9/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/module_9/readme_9_2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +57,7 @@
     "Python.classpract.1.3.executor": "Run",
     "Python.classpractic1.executor": "Run",
     "Python.electric.executor": "Run",
+    "Python.electro_calculator.executor": "Run",
     "Python.f.executor": "Run",
     "Python.fake_math.executor": "Run",
     "Python.file2.executor": "Run",
@@ -135,7 +133,7 @@
       <recent name="$PROJECT_DIR$/file2/calc" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.module_9_3">
+  <component name="RunManager" selected="Python.electro_calculator">
     <configuration name="electric" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework-Urban1" />
       <option name="ENV_FILES" value="" />
@@ -158,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module_8_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="electro_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework-Urban1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jobs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_8/module_8_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jobs/electro_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.module_9_3" />
+        <item itemvalue="Python.electro_calculator" />
         <item itemvalue="Python.electric" />
+        <item itemvalue="Python.module_9_3" />
         <item itemvalue="Python.module_8_3" />
         <item itemvalue="Python.module_8_2" />
-        <item itemvalue="Python.module_8_1" />
       </list>
     </recent_temporary>
   </component>
@@ -271,30 +269,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732284311399</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Практика 1.1">
-      <option name="closed" value="true" />
-      <created>1734539450981</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1734539450981</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Практика 1.1">
-      <option name="closed" value="true" />
-      <created>1734625694268</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1734625694268</updated>
-    </task>
-    <task id="LOCAL-00050" summary="Модуль_1">
-      <option name="closed" value="true" />
-      <created>1734709981373</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1734709981374</updated>
     </task>
     <task id="LOCAL-00051" summary="Модуль_1">
       <option name="closed" value="true" />
@@ -664,7 +638,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737648231324</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Домашнее задание по теме &quot;Генераторные сборки&quot;">
+      <option name="closed" value="true" />
+      <created>1737782694959</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1737782694959</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Д">
+      <option name="closed" value="true" />
+      <created>1737782721917</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1737782721917</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Д">
+      <option name="closed" value="true" />
+      <created>1737782731539</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1737782731539</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -682,8 +680,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Домашняя работа по уроку &quot;Атрибуты и методы объекта&quot;" />
-    <MESSAGE value="Домашняя работа по уроку &quot;Перегрузка операторов&quot;" />
     <MESSAGE value="Домашняя работа по уроку &quot;Специальные методы классов&quot;" />
     <MESSAGE value="Домашняя работа по уроку &quot;Различие атрибутов класса и экземпляра&quot;" />
     <MESSAGE value="Практика модуля 5" />
@@ -707,7 +703,9 @@
     <MESSAGE value="Домашнее задание по теме &quot;Создание исключений&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Введение в функциональное программирование&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Списковые, словарные сборки&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Списковые, словарные сборки&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Генераторные сборки&quot;" />
+    <MESSAGE value="Д" />
+    <option name="LAST_COMMIT_MESSAGE" value="Д" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
