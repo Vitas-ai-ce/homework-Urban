@@ -1,4 +1,3 @@
-import math
 
 '''
 Реализуем программу расчета затрат материала и
@@ -24,6 +23,7 @@ import math
 с учетом колличества работников
 
 '''
+import math
 
 '''
 1. Возможность расчета длинны проводника
@@ -35,10 +35,25 @@ import math
  3. Расчет длинны проводника при стандартном монтаже
  без отдельных групп потребителя(однопроводная система)
 '''
-def wire_length(self):
-    self.wire_length = []
-    for length in wire_length:
-        math.fsum(length) = wire_length
+# def wire_length(self):
+#     self.wire_length = []
+#     for length in wire_length_1:
+#         self.wire_length = math.fsum(length)
+#     return wire_length
+def lenght_1():
+    length_1 = input()
+    for i in length_1:
+        i = int
+        print(math.fsum(i))
+
+# length_2 = input('Ввод значений через пробел: \n'.split())
+# length_3 = input('Ввод значений через пробел: \n'.split())
+
+
+# wire_length = [x for x in length_1]
+# print(wire_length)
+lenght_1()
+
         
 
 
