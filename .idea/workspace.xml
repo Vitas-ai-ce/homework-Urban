@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4237234c-f9b2-4126-ac39-3906d93b8581" name="Changes" comment="Работа">
-      <change afterPath="$PROJECT_DIR$/jobs/fetch_material_price.py" afterDir="false" />
+    <list default="true" id="4237234c-f9b2-4126-ac39-3906d93b8581" name="Changes" comment="нужно доработать">
+      <change afterPath="$PROJECT_DIR$/module_9/module_9_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jobs/fetch_material_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/fetch_material_price.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +101,7 @@
     "Python.module_9_1.executor": "Run",
     "Python.module_9_2.executor": "Run",
     "Python.module_9_3.executor": "Run",
+    "Python.module_9_4.executor": "Run",
     "Python.namespaces.executor": "Run",
     "Python.practic.executor": "Run",
     "Python.robot.executor": "Run",
@@ -133,7 +135,7 @@
       <recent name="$PROJECT_DIR$/file2/calc" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fetch_material_price">
+  <component name="RunManager" selected="Python.module_9_4">
     <configuration name="electric" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework-Urban1" />
       <option name="ENV_FILES" value="" />
@@ -200,28 +202,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module_8_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="homework-Urban1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_8/module_8_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="module_9_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework-Urban1" />
       <option name="ENV_FILES" value="" />
@@ -244,13 +224,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="module_9_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework-Urban1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_9/module_9_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.module_9_4" />
         <item itemvalue="Python.fetch_material_price" />
         <item itemvalue="Python.electro_calculator" />
         <item itemvalue="Python.electric" />
         <item itemvalue="Python.module_9_3" />
-        <item itemvalue="Python.module_8_3" />
       </list>
     </recent_temporary>
   </component>
@@ -269,14 +271,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732284311399</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Модуль_2">
-      <option name="closed" value="true" />
-      <created>1734710196382</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1734710196382</updated>
     </task>
     <task id="LOCAL-00053" summary="Модуль_3">
       <option name="closed" value="true" />
@@ -662,7 +656,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737787379387</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="нужно доработать">
+      <option name="closed" value="true" />
+      <created>1737788711478</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1737788711479</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -680,7 +682,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Домашняя работа по уроку &quot;Различие атрибутов класса и экземпляра&quot;" />
     <MESSAGE value="Практика модуля 5" />
     <MESSAGE value="Дополнительное дз 5 модуля" />
     <MESSAGE value="модуль 6" />
@@ -705,7 +706,8 @@
     <MESSAGE value="Домашнее задание по теме &quot;Генераторные сборки&quot;" />
     <MESSAGE value="Д" />
     <MESSAGE value="Работа" />
-    <option name="LAST_COMMIT_MESSAGE" value="Работа" />
+    <MESSAGE value="нужно доработать" />
+    <option name="LAST_COMMIT_MESSAGE" value="нужно доработать" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

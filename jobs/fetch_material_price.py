@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 def fetch_material_prices():
     # URL веб-сайта с ценами на электромонтажные материалы
-    url = "https://ensnab24.ru/prices"
+    url = "https://om-ek.ru/product/elektromontazhnyie-materialyi"
     # Замените этот URL на реальный
 
     try:
