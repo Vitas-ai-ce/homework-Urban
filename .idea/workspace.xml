@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4237234c-f9b2-4126-ac39-3906d93b8581" name="Changes" comment="Домашнее задание по теме &quot;Создание функций на лету&quot;">
-      <change afterPath="$PROJECT_DIR$/module_9/module_9_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_9/module_9_5_.py" afterDir="false" />
+    <list default="true" id="4237234c-f9b2-4126-ac39-3906d93b8581" name="Changes" comment="Задача &quot;Range - это просто&quot;">
+      <change afterPath="$PROJECT_DIR$/module_9/module_9_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,8 +101,9 @@
     "Python.module_9_2.executor": "Run",
     "Python.module_9_3.executor": "Run",
     "Python.module_9_4.executor": "Run",
-    "Python.module_9_5.executor": "Debug",
+    "Python.module_9_5.executor": "Run",
     "Python.module_9_5_.executor": "Debug",
+    "Python.module_9_6.executor": "Debug",
     "Python.namespaces.executor": "Run",
     "Python.practic.executor": "Run",
     "Python.robot.executor": "Run",
@@ -137,29 +137,7 @@
       <recent name="$PROJECT_DIR$/file2/calc" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.module_9_5_">
-    <configuration name="electro_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="homework-Urban1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jobs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jobs/electro_calculator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.module_9_6">
     <configuration name="fetch_material_price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework-Urban1" />
       <option name="ENV_FILES" value="" />
@@ -248,13 +226,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="module_9_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework-Urban1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_9/module_9_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.module_9_5_" />
+        <item itemvalue="Python.module_9_6" />
         <item itemvalue="Python.module_9_5" />
+        <item itemvalue="Python.module_9_5_" />
         <item itemvalue="Python.module_9_4" />
         <item itemvalue="Python.fetch_material_price" />
-        <item itemvalue="Python.electro_calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -273,14 +273,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732284311399</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Домашняя работа по уроку &quot;Атрибуты и методы объекта&quot;">
-      <option name="closed" value="true" />
-      <created>1734974533223</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1734974533224</updated>
     </task>
     <task id="LOCAL-00057" summary="module_4">
       <option name="closed" value="true" />
@@ -666,7 +658,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737791956280</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Задача &quot;Range - это просто&quot;">
+      <option name="closed" value="true" />
+      <created>1737910852905</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1737910852905</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -684,7 +684,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="модуль 6" />
     <MESSAGE value="Задача &quot;Съедобное, несъедобное&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Доступ к свойствам родителя. Переопределение свойств&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Множественное наследование&quot;" />
@@ -709,7 +708,8 @@
     <MESSAGE value="нужно доработать" />
     <MESSAGE value="Доработать код" />
     <MESSAGE value="Домашнее задание по теме &quot;Создание функций на лету&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Создание функций на лету&quot;" />
+    <MESSAGE value="Задача &quot;Range - это просто&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача &quot;Range - это просто&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -727,12 +727,12 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/module_9/module_9_5.py</url>
           <line>29</line>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/module_9/module_9_5_.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/module_9/module_9_6.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
