@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4237234c-f9b2-4126-ac39-3906d93b8581" name="Changes" comment="Задача &quot;Range - это просто&quot;">
-      <change afterPath="$PROJECT_DIR$/module_9/module_9_6.py" afterDir="false" />
+    <list default="true" id="4237234c-f9b2-4126-ac39-3906d93b8581" name="Changes" comment="Домашнее задание по теме &quot;Генераторы&quot;">
+      <change afterPath="$PROJECT_DIR$/module_9/module_9_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +103,8 @@
     "Python.module_9_4.executor": "Run",
     "Python.module_9_5.executor": "Run",
     "Python.module_9_5_.executor": "Debug",
-    "Python.module_9_6.executor": "Debug",
+    "Python.module_9_6.executor": "Run",
+    "Python.module_9_7.executor": "Run",
     "Python.namespaces.executor": "Run",
     "Python.practic.executor": "Run",
     "Python.robot.executor": "Run",
@@ -137,29 +138,7 @@
       <recent name="$PROJECT_DIR$/file2/calc" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.module_9_6">
-    <configuration name="fetch_material_price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="homework-Urban1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jobs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jobs/fetch_material_price.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.module_9_7">
     <configuration name="module_9_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework-Urban1" />
       <option name="ENV_FILES" value="" />
@@ -248,13 +227,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="module_9_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework-Urban1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module_9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_9/module_9_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.module_9_7" />
         <item itemvalue="Python.module_9_6" />
         <item itemvalue="Python.module_9_5" />
         <item itemvalue="Python.module_9_5_" />
         <item itemvalue="Python.module_9_4" />
-        <item itemvalue="Python.fetch_material_price" />
       </list>
     </recent_temporary>
   </component>
@@ -273,14 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732284311399</updated>
-    </task>
-    <task id="LOCAL-00057" summary="module_4">
-      <option name="closed" value="true" />
-      <created>1734974649456</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1734974649456</updated>
     </task>
     <task id="LOCAL-00058" summary="Домашняя работа по уроку &quot;Атрибуты и методы объекта&quot;">
       <option name="closed" value="true" />
@@ -666,7 +659,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737910852905</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Домашнее задание по теме &quot;Генераторы&quot;">
+      <option name="closed" value="true" />
+      <created>1737995527568</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1737995527569</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -684,7 +685,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Задача &quot;Съедобное, несъедобное&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Доступ к свойствам родителя. Переопределение свойств&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Множественное наследование&quot;" />
     <MESSAGE value="calc" />
@@ -709,7 +709,8 @@
     <MESSAGE value="Доработать код" />
     <MESSAGE value="Домашнее задание по теме &quot;Создание функций на лету&quot;" />
     <MESSAGE value="Задача &quot;Range - это просто&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача &quot;Range - это просто&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;Генераторы&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Генераторы&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
